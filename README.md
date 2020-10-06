@@ -1,4 +1,4 @@
-## Html-php-MySQL-Electricity-Fee-Calculation-and-Electric-Appliance-Recommendation-Web-A
+## Html-php-MySQL-Electricity-Fee-Calculation-and-Electric-Appliance-Recommendation-Web
 
 這是一個可以透過不同需求推薦電器及計算電費的網站，透過政府開放平台上的電器省能源消耗、各地濕度等等，結合天氣以及各種詳細資訊所打造而成的。
 ## DEMO Video
