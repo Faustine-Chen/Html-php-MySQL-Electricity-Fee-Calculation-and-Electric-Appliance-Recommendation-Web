@@ -20,14 +20,21 @@
 + Javascript / PHP / HTML / CSS
 
 ## 實際功能展示
-**首頁** ![](https://i.imgur.com/ImOvKxe.png)
+**首頁**<br />
+![](https://i.imgur.com/ImOvKxe.png)<br />
 ## (1)推薦電器
-**推薦條件輸入**![](https://i.imgur.com/7Janpa2.png)
-**各個空間所推薦的電器**![](https://i.imgur.com/5K4PYPc.png).
+**推薦條件輸入**<br />
+![](https://i.imgur.com/7Janpa2.png)<br />
+**各個空間所推薦的電器**<br />
+![](https://i.imgur.com/5K4PYPc.png)<br />
 ## (2)計算電費
-**月用電量輸入**![](https://i.imgur.com/yWRwcwd.png)
-**每月電器時數比例**![](https://i.imgur.com/5yNC8XC.png)
-**每月電器電費比例**![](https://i.imgur.com/AXxfPLi.png)
-**年度用電量**![](https://i.imgur.com/5K7M7y2.png)
+**月用電量輸入**<br />
+![](https://i.imgur.com/yWRwcwd.png)<br />
+**每月電器時數比例**<br />
+![](https://i.imgur.com/5yNC8XC.png)<br />
+**每月電器電費比例**<br />
+![](https://i.imgur.com/AXxfPLi.png)<br />
+**年度用電量**<br />
+![](https://i.imgur.com/5K7M7y2.png)<br />
 
 **合作夥伴:** Kris Hung, Jasmine Su, Amy Lee, Sam Lee
